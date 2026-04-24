@@ -1,6 +1,6 @@
 import express from 'express'
 import routerMenu from './routers/comidas/routerMenu.js';
-const cors = require('cors');
+import cors from 'cors';
 
 export default function ({ modeloMenu }) {
 
