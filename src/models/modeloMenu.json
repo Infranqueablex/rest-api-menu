@@ -1,0 +1,448 @@
+[
+  {
+    "id": 1,
+    "nombre_local": "La Taquería",
+    "nombre_plato": "Tacos al Pastor Tradicionales",
+    "nombre_comida": "mexicana",
+    "num_estrellas": 4.7,
+    "num_reviews": 1200,
+    "tiempo_preparacion": 25,
+    "url_imagen": "/uploads/tacos1.png",
+    "ingredientes": [
+      "Carne de cerdo marinada",
+      "Piña",
+      "Cebolla",
+      "Cilantro",
+      "Tortilla de maíz"
+    ],
+    "historia_plato": "Surgieron en la década de los 60 en la Ciudad de México como una adaptación del 'shawarma' libanés. Los inmigrantes buscaban recrear su platillo pero, ante la falta de cordero, utilizaron cerdo marinado con achiote y especias locales, sustituyendo el pan pita por la tortilla de maíz y añadiendo la icónica piña para equilibrar la grasa.",
+    "descripcion": "Cerdo adobado al trompo con piña asada, cebolla y cilantro fresco."
+  },
+  {
+    "id": 2,
+    "nombre_local": "El Rincón del Taco",
+    "nombre_plato": "Tacos de Cochinita Pibil",
+    "nombre_comida": "mexicana",
+    "num_estrellas": 4.9,
+    "num_reviews": 2100,
+    "tiempo_preparacion": 20,
+    "url_imagen": "/uploads/tacos2.png",
+    "ingredientes": [
+      "Cerdo deshebrado",
+      "Achiote",
+      "Naranja agria",
+      "Cebolla morada encurtida",
+      "Tortilla de maíz"
+    ],
+    "historia_plato": "Este platillo es el pilar de la cocina yucateca y tiene raíces prehispánicas mayas. Originalmente se preparaba con carne de venado o pecarí y se cocinaba en el 'pib', un horno de tierra. Con la llegada de los españoles se introdujo el cerdo, transformándose en el manjar mestizo que hoy se marina en jugo de naranja agria y se envuelve en hojas de plátano.",
+    "descripcion": "Cerdo tierno marinado en achiote con cebolla morada encurtida."
+  },
+  {
+    "id": 3,
+    "nombre_local": "Tacostador",
+    "nombre_plato": "Tacos de Carnitas Estilo Michoacán",
+    "nombre_comida": "mexicana",
+    "num_estrellas": 4.6,
+    "num_reviews": 850,
+    "tiempo_preparacion": 15,
+    "url_imagen": "/uploads/tacos3.png",
+    "ingredientes": [
+      "Maciza de cerdo",
+      "Manteca",
+      "Naranja",
+      "Especias",
+      "Tortilla de maíz"
+    ],
+    "historia_plato": "La tradición cuenta que las carnitas nacieron en Michoacán poco después de la conquista, cuando se combinaron las técnicas europeas de confitado con los ingredientes locales. Se dice que el uso de grandes cazos de cobre es fundamental para la distribución del calor, y que ingredientes 'secretos' como la leche o la cola ayudan a darles ese característico color dorado y sabor caramelizado.",
+    "descripcion": "Cerdo confitado en manteca, jugoso por dentro y crujiente por fuera."
+  },
+  {
+    "id": 4,
+    "nombre_local": "Tacos & Beer",
+    "nombre_plato": "Tacos de Asada al Carbón",
+    "nombre_comida": "mexicana",
+    "num_estrellas": 4.5,
+    "num_reviews": 620,
+    "tiempo_preparacion": 18,
+    "url_imagen": "/uploads/tacos4.png",
+    "ingredientes": [
+      "Bistec de res",
+      "Marinado de la casa",
+      "Cebollitas asadas",
+      "Tortilla de harina"
+    ],
+    "historia_plato": "La carne asada es un ritual social en el norte de México, especialmente en Sonora y Nuevo León. Su origen se remonta a la cultura ganadera de la región, donde las reuniones familiares giraban en torno a encender fuego con carbón de mezquite. La sencillez del plato busca resaltar la calidad del ganado regional, siempre acompañado de tortillas de harina de trigo, típicas de la frontera.",
+    "descripcion": "Cortes de res asados a la leña con aroma ahumado."
+  },
+  {
+    "id": 5,
+    "nombre_local": "La Mordida",
+    "nombre_plato": "Tacos de Pescado Baja Style",
+    "nombre_comida": "mexicana",
+    "num_estrellas": 4.8,
+    "num_reviews": 430,
+    "tiempo_preparacion": 22,
+    "url_imagen": "/uploads/tacos5.png",
+    "ingredientes": [
+      "Pescado blanco capeado",
+      "Col rallada",
+      "Pico de gallo",
+      "Aderezo de chipotle"
+    ],
+    "historia_plato": "Nacieron en el Mercado de Ensenada en los años 60. Se cree que la técnica del capeado (tempura) fue una influencia de los pescadores japoneses que trabajaban en las costas de Baja California. Con el tiempo, los locales adaptaron la receta usando ingredientes frescos del Pacífico y creando aderezos a base de crema y mayonesa para contrastar con lo crujiente del pescado frito.",
+    "descripcion": "Pescado crujiente capeado con ensalada fresca y crema de chipotle."
+  },
+  {
+    "id": 6,
+    "nombre_local": "Burger & Co.",
+    "nombre_plato": "Bacon Cheese Monster",
+    "nombre_comida": "hamburguesa",
+    "num_estrellas": 4.6,
+    "num_reviews": 1100,
+    "tiempo_preparacion": 30,
+    "url_imagen": "/uploads/hamburguesa1.png",
+    "ingredientes": [
+      "Carne de res angus",
+      "Tocino ahumado",
+      "Queso cheddar doble",
+      "Pan brioche"
+    ],
+    "historia_plato": "Este estilo de hamburguesa 'monstruosa' ganó fama en los diners estadounidenses de los años 90, cuando la tendencia de 'agrandar' todo llegó a la cocina. La idea era crear un plato visualmente impactante que desafiara al comensal, utilizando tocino de corte grueso curado en madera de nogal para aportar un sabor rústico que domina sobre los vegetales tradicionales.",
+    "descripcion": "Doble carne angus con capas de tocino ahumado y queso fundido."
+  },
+  {
+    "id": 7,
+    "nombre_local": "Big Burger",
+    "nombre_plato": "Doble Smash Burger",
+    "nombre_comida": "hamburguesa",
+    "num_estrellas": 4.9,
+    "num_reviews": 1800,
+    "tiempo_preparacion": 25,
+    "url_imagen": "/uploads/hamburguesa2.png",
+    "ingredientes": [
+      "Carne de res prensada",
+      "Queso americano",
+      "Cebolla caramelizada",
+      "Salsa secreta"
+    ],
+    "historia_plato": "Aunque se cree que el estilo 'smash' nació en Kentucky hace décadas, su explosión global ocurrió recientemente como respuesta a las hamburguesas gourmet demasiado altas. El secreto está en aplastar la bola de carne fría sobre una plancha hirviendo; esto genera una reacción química (Maillard) que crea una costra de sabor intenso que no se logra con otros métodos de cocción.",
+    "descripcion": "Dos carnes aplastadas en plancha con bordes crujientes y queso."
+  },
+  {
+    "id": 8,
+    "nombre_local": "The Grill House",
+    "nombre_plato": "Hamburguesa de Pollo Crispy",
+    "nombre_comida": "hamburguesa",
+    "num_estrellas": 4.4,
+    "num_reviews": 560,
+    "tiempo_preparacion": 20,
+    "url_imagen": "/uploads/hamburguesa3.png",
+    "ingredientes": [
+      "Pechuga de pollo empanizada",
+      "Pepinillos",
+      "Lechuga",
+      "Mayonesa picante"
+    ],
+    "historia_plato": "La rivalidad entre la carne de res y el pollo frito alcanzó su punto máximo con la creación de la hamburguesa de pollo 'estilo sureño'. Inspirada en las recetas de Nashville, el pollo se somete a un marinado de 24 horas en suero de leche para ablandar las fibras. El empanizado incluye una mezcla de más de diez especias que se activan al contacto con el aceite a alta temperatura.",
+    "descripcion": "Pechuga de pollo extra crujiente con pepinillos y salsa picante."
+  },
+  {
+    "id": 9,
+    "nombre_local": "Urban Burger",
+    "nombre_plato": "Hamburguesa Trufada con Champiñones",
+    "nombre_comida": "hamburguesa",
+    "num_estrellas": 4.7,
+    "num_reviews": 320,
+    "tiempo_preparacion": 35,
+    "url_imagen": "/uploads/hamburguesa4.png",
+    "ingredientes": [
+      "Res de primera",
+      "Aceite de trufa",
+      "Hongos salteados",
+      "Queso suizo"
+    ],
+    "historia_plato": "Nacida en los bistros urbanos de Nueva York, esta variante buscaba democratizar sabores de lujo como la trufa negra. Al principio era un plato de temporada que dependía de la cosecha de hongos, pero debido a su éxito masivo, se perfeccionaron aceites y reducciones de trufa para mantener su disponibilidad todo el año, convirtiéndola en el estandarte de las hamburguesas de alta gama.",
+    "descripcion": "Hamburguesa gourmet aromatizada con trufa negra y hongos salteados."
+  },
+  {
+    "id": 10,
+    "nombre_local": "Green Bites",
+    "nombre_plato": "Hamburguesa Vegana de Lentejas",
+    "nombre_comida": "hamburguesa",
+    "num_estrellas": 4.3,
+    "num_reviews": 210,
+    "tiempo_preparacion": 25,
+    "url_imagen": "/uploads/hamburguesa5.png",
+    "ingredientes": [
+      "Medallón de lentejas",
+      "Aguacate",
+      "Tomates deshidratados",
+      "Pan integral"
+    ],
+    "historia_plato": "El origen de las hamburguesas vegetales se remonta a la cocina india y budista, pero su versión moderna con lentejas se popularizó en los colectivos vegetarianos de los años 70. La receta ha evolucionado de ser un sustituto insípido a una opción gastronómica compleja que utiliza lentejas de alta calidad, nueces y vegetales deshidratados para replicar la textura y el sabor umami de la carne.",
+    "descripcion": "Opción saludable a base de lentejas, aguacate y pan integral."
+  },
+  {
+    "id": 11,
+    "nombre_local": "Sweet Dreams",
+    "nombre_plato": "Cheesecake de Frutos Rojos",
+    "nombre_comida": "postre",
+    "num_estrellas": 4.9,
+    "num_reviews": 1500,
+    "tiempo_preparacion": 10,
+    "url_imagen": "/uploads/postre1.png",
+    "ingredientes": [
+      "Queso crema",
+      "Galleta de mantequilla",
+      "Arándanos",
+      "Frambuesas",
+      "Fresas"
+    ],
+    "historia_plato": "Aunque los antiguos griegos ya servían pasteles de queso, la versión densa y horneada que conocemos hoy nació en Nueva York en 1872, cuando se inventó accidentalmente el queso crema moderno. Los frutos rojos se añadieron posteriormente en las pastelerías europeas para aportar una acidez necesaria que cortara la intensidad láctea, logrando un equilibrio visual y gustativo perfecto.",
+    "descripcion": "Tarta de queso cremosa con coulis fresco de frutos del bosque."
+  },
+  {
+    "id": 12,
+    "nombre_local": "Crepe Station",
+    "nombre_plato": "Crepe de Nutella y Fresa",
+    "nombre_comida": "postre",
+    "num_estrellas": 4.7,
+    "num_reviews": 410,
+    "tiempo_preparacion": 15,
+    "url_imagen": "/uploads/postre2.png",
+    "ingredientes": [
+      "Masa de crepe",
+      "Nutella",
+      "Fresas frescas",
+      "Azúcar glass"
+    ],
+    "historia_plato": "Las crepes tienen su cuna en Bretaña, Francia, donde originalmente se hacían con harina de sarraceno. Sin embargo, la versión dulce con harina blanca se reservaba para las clases altas. El relleno de Nutella se convirtió en el estándar mundial tras la posguerra, cuando la falta de cacao llevó a una empresa italiana a crear una pasta de avellanas, convirtiéndose en el compañero inseparable de la masa francesa.",
+    "descripcion": "Fina masa francesa rellena de crema de avellanas y fresas."
+  },
+  {
+    "id": 13,
+    "nombre_local": "Choco Mania",
+    "nombre_plato": "Brownie con Helado de Vainilla",
+    "nombre_comida": "postre",
+    "num_estrellas": 4.8,
+    "num_reviews": 980,
+    "tiempo_preparacion": 12,
+    "url_imagen": "/uploads/postre3.png",
+    "ingredientes": [
+      "Cacao oscuro",
+      "Nueces",
+      "Helado de vainilla bourbon",
+      "Fudge de chocolate"
+    ],
+    "historia_plato": "El primer brownie registrado fue una petición de Bertha Palmer para la Exposición Mundial de Chicago en 1893; ella quería un postre más pequeño que una tarta pero con su misma riqueza. La adición de helado de vainilla ('à la mode') se popularizó para suavizar el dulzor extremo del chocolate oscuro y proporcionar una experiencia térmica de contraste entre el bizcocho caliente y la crema fría.",
+    "descripcion": "Bizcocho de chocolate húmedo con helado de vainilla bourbon."
+  },
+  {
+    "id": 14,
+    "nombre_local": "Gelato Fino",
+    "nombre_plato": "Copa de Helado Artesanal 3 Sabores",
+    "nombre_comida": "postre",
+    "num_estrellas": 4.6,
+    "num_reviews": 750,
+    "tiempo_preparacion": 5,
+    "url_imagen": "/uploads/postre4.png",
+    "ingredientes": [
+      "Leche entera",
+      "Frutas naturales",
+      "Pistacho",
+      "Chocolate belga",
+      "Crema"
+    ],
+    "historia_plato": "Bernardo Buontalenti es acreditado con la invención del gelato moderno en la corte de los Médici en Florencia durante el siglo XVI. A diferencia del helado convencional, el gelato artesanal se bate a una velocidad mucho menor, lo que evita que se incorpore demasiado aire. Esto, sumado a una temperatura de servicio ligeramente más alta, permite que las papilas gustativas perciban los sabores con mucha más intensidad.",
+    "descripcion": "Selección de tres sabores de helado artesanal de textura densa."
+  },
+  {
+    "id": 15,
+    "nombre_local": "Donut Factory",
+    "nombre_plato": "Caja de 6 Donuts Glaseados",
+    "nombre_comida": "postre",
+    "num_estrellas": 4.6,
+    "num_reviews": 890,
+    "tiempo_preparacion": 5,
+    "url_imagen": "/uploads/postre5.png",
+    "ingredientes": [
+      "Masa fermentada",
+      "Glaseado de azúcar",
+      "Vainilla",
+      "Mantequilla"
+    ],
+    "historia_plato": "Los donuts llegaron a América con los colonos holandeses como 'olykoeks' (pasteles aceitosos). El famoso agujero central fue una innovación del marino Hanson Gregory en 1847, quien supuestamente lo hizo para que la masa se cocinara uniformemente por dentro. El glaseado transparente clásico se perfeccionó durante la Gran Depresión, ofreciendo un postre económico pero reconfortante que podía conservarse fresco por más tiempo.",
+    "descripcion": "Donuts artesanales esponjosos con glaseado de azúcar clásico."
+  },
+  {
+    "id": 16,
+    "nombre_local": "Pizzeria Romana",
+    "nombre_plato": "Margherita Clásica",
+    "nombre_comida": "pizza",
+    "num_estrellas": 4.8,
+    "num_reviews": 950,
+    "tiempo_preparacion": 20,
+    "url_imagen": "/uploads/pizza1.jpeg",
+    "ingredientes": [
+      "Masa madre",
+      "Tomate San Marzano",
+      "Mozzarella de búfala",
+      "Albahaca fresca"
+    ],
+    "historia_plato": "En junio de 1889, el pizzero Raffaele Esposito fue convocado para honrar la visita de la Reina Margarita de Saboya a Nápoles. Creó tres pizzas, pero la reina eligió la que llevaba los colores de la bandera italiana: el rojo del tomate, el blanco de la mozzarella y el verde de la albahaca. Desde entonces, es el estándar de oro de la pizza napolitana, protegida hoy por normativas internacionales.",
+    "descripcion": "Pizza tradicional napolitana con tomate, mozzarella y albahaca."
+  },
+  {
+    "id": 17,
+    "nombre_local": "El Horno Leña",
+    "nombre_plato": "Pizza Pepperoni Hot",
+    "nombre_comida": "pizza",
+    "num_estrellas": 4.4,
+    "num_reviews": 480,
+    "tiempo_preparacion": 20,
+    "url_imagen": "/uploads/pizza2.png",
+    "ingredientes": [
+      "Pepperoni picante",
+      "Hojuelas de chile",
+      "Mozzarella",
+      "Miel picante"
+    ],
+    "historia_plato": "El pepperoni es técnicamente una creación italoamericana; no existe con ese nombre en Italia. Surgió en las carnicerías de Nueva York a principios del siglo XX como una versión del salami picante del sur de Italia. Esta versión 'Hot' añade una técnica de horneado a temperaturas extremas para que los bordes del embutido se curven hacia arriba, creando pequeñas copas que retienen el aceite picante y el sabor.",
+    "descripcion": "Pizza de pepperoni crujiente con un toque extra de picante."
+  },
+  {
+    "id": 18,
+    "nombre_local": "Bella Italia",
+    "nombre_plato": "Pizza Cuatro Quesos",
+    "nombre_comida": "pizza",
+    "num_estrellas": 4.7,
+    "num_reviews": 630,
+    "tiempo_preparacion": 25,
+    "url_imagen": "/uploads/pizza3.png",
+    "ingredientes": ["Mozzarella", "Gorgonzola", "Parmesano", "Fontina"],
+    "historia_plato": "Esta pizza nació en el norte de Italia (región de Lombardía) como una forma de aprovechar los diversos excedentes de quesos regionales. El equilibrio tradicional exige un queso elástico (mozzarella), uno azul fuerte (gorgonzola), uno duro para sabor umami (parmesano) y uno cremoso (fontina). Es considerada una prueba de habilidad para el pizzero, quien debe evitar que un sabor opaque a los demás.",
+    "descripcion": "Mezcla equilibrada de cuatro quesos italianos premium."
+  },
+  {
+    "id": 19,
+    "nombre_local": "Pizza Master",
+    "nombre_plato": "Pizza BBQ Chicken",
+    "nombre_comida": "pizza",
+    "num_estrellas": 4.5,
+    "num_reviews": 410,
+    "tiempo_preparacion": 22,
+    "url_imagen": "/uploads/pizza4.png",
+    "ingredientes": [
+      "Pollo a la parrilla",
+      "Salsa BBQ",
+      "Cebolla roja",
+      "Maíz dulce"
+    ],
+    "historia_plato": "Fue inventada por el chef Ed LaDou en 1985 para el primer menú de California Pizza Kitchen. LaDou, quien antes trabajaba con Wolfgang Puck, decidió romper con las reglas italianas y usar la salsa barbacoa como base en lugar de tomate. El resultado fue tan revolucionario que cambió la percepción de lo que se podía poner sobre una pizza, dando inicio a la era de la cocina fusión en la comida rápida.",
+    "descripcion": "Pollo a la parrilla y cebolla morada sobre base de salsa BBQ."
+  },
+  {
+    "id": 20,
+    "nombre_local": "Napoli Express",
+    "nombre_plato": "Pizza Hawaiana con Jamón",
+    "nombre_comida": "pizza",
+    "num_estrellas": 4.2,
+    "num_reviews": 380,
+    "tiempo_preparacion": 18,
+    "url_imagen": "/uploads/pizza5.png",
+    "ingredientes": [
+      "Jamón cocido",
+      "Piña en almíbar",
+      "Mozzarella",
+      "Salsa de tomate"
+    ],
+    "historia_plato": "A pesar de su nombre, fue inventada por Sam Panopoulos en Ontario, Canadá, en 1962. Inspirado por la comida china agridulce, decidió probar piña enlatada sobre una pizza de jamón. El nombre 'Hawaiana' provino simplemente de la marca de la piña que usó ese día. Aunque es el sabor más polémico del mundo, su éxito comercial la ha llevado a ser una de las pizzas más consumidas en todos los continentes.",
+    "descripcion": "Combinación agridulce de piña jugosa y jamón de pierna."
+  },
+  {
+    "id": 21,
+    "nombre_local": "Sushi Zen",
+    "nombre_plato": "Dragon Roll Especial",
+    "nombre_comida": "sushi",
+    "num_estrellas": 4.7,
+    "num_reviews": 820,
+    "tiempo_preparacion": 35,
+    "url_imagen": "/uploads/sushi1.png",
+    "ingredientes": [
+      "Langostino tempura",
+      "Anguila",
+      "Aguacate",
+      "Masago",
+      "Salsa unagi"
+    ],
+    "historia_plato": "Es uno de los ejemplos más brillantes del sushi fusión o 'estilo occidental'. Su nombre proviene de la disposición visual de las láminas de aguacate sobre el rollo, que simulan las escamas de un dragón, mientras que los extremos suelen decorarse para parecer la cabeza y la cola. Combina la técnica japonesa de la tempura con el sabor intenso de la anguila ahumada y salsas dulces de reducción de soja.",
+    "descripcion": "Roll decorado como dragón con langostino tempura y anguila."
+  },
+  {
+    "id": 22,
+    "nombre_local": "Tokyo House",
+    "nombre_plato": "Nigiri de Salmón (6 piezas)",
+    "nombre_comida": "sushi",
+    "num_estrellas": 4.8,
+    "num_reviews": 540,
+    "tiempo_preparacion": 20,
+    "url_imagen": "/uploads/sushi2.png",
+    "ingredientes": [
+      "Arroz de sushi",
+      "Salmón noruego",
+      "Wasabi",
+      "Salsa de soja"
+    ],
+    "historia_plato": "Curiosamente, el salmón no se consumía en el sushi tradicional japonés debido a parásitos locales. Fue gracias a una campaña de marketing de Noruega en los años 80 ('Proyecto Salmón') que los japoneses aceptaron este pescado crudo. Hoy, el nigiri de salmón es el tipo de sushi más popular del planeta, apreciado por su alto contenido graso y su textura suave que se funde en el paladar con el arroz avinagrado.",
+    "descripcion": "Cortes frescos de salmón sobre bases compactas de arroz."
+  },
+  {
+    "id": 23,
+    "nombre_local": "Kyoto Express",
+    "nombre_plato": "California Roll Clásico",
+    "nombre_comida": "sushi",
+    "num_estrellas": 4.5,
+    "num_reviews": 1100,
+    "tiempo_preparacion": 25,
+    "url_imagen": "/uploads/sushi3.png",
+    "ingredientes": ["Kani (cangrejo)", "Pepino", "Aguacate", "Sésamo"],
+    "historia_plato": "Fue creado por el chef Ichiro Mashita en Los Ángeles durante los años 70. Al no encontrar atún de calidad, utilizó aguacate para replicar la textura grasa del pescado. Además, al notar que los estadounidenses rechazaban el alga negra exterior, decidió invertir el rollo (Uramaki), ocultando el alga bajo una capa de arroz y sésamo. Este plato fue la puerta de entrada definitiva del sushi en el hemisferio occidental.",
+    "descripcion": "Rollo invertido con cangrejo, aguacate y pepino."
+  },
+  {
+    "id": 24,
+    "nombre_local": "Sakura Sushi",
+    "nombre_plato": "Uramaki de Atún Picante",
+    "nombre_comida": "sushi",
+    "num_estrellas": 4.6,
+    "num_reviews": 290,
+    "tiempo_preparacion": 30,
+    "url_imagen": "/uploads/sushi4.png",
+    "ingredientes": [
+      "Atún fresco",
+      "Sriracha",
+      "Aceite de sésamo",
+      "Cebollino"
+    ],
+    "historia_plato": "El 'Spicy Tuna' surgió en los bares de sushi de Seattle a finales de los 80 como una forma creativa de aprovechar los recortes de atún fresco que no servían para nigiri pero tenían una calidad excelente. Al mezclar el atún picado con salsa sriracha y aceite de sésamo tostado, los chefs crearon un sabor vibrante que contrastaba con la neutralidad del arroz, convirtiéndose rápidamente en un favorito por su toque audaz.",
+    "descripcion": "Atún macerado en sriracha y sésamo envuelto en arroz."
+  },
+  {
+    "id": 25,
+    "nombre_local": "Sushi Roll Bar",
+    "nombre_plato": "Combo Variado Omakase",
+    "nombre_comida": "sushi",
+    "num_estrellas": 4.9,
+    "num_reviews": 720,
+    "tiempo_preparacion": 45,
+    "url_imagen": "/uploads/sushi5.png",
+    "ingredientes": [
+      "Selección del chef",
+      "Pescado de temporada",
+      "Arroz premium",
+      "Jengibre"
+    ],
+    "historia_plato": "El término Omakase se originó en los restaurantes de sushi tradicionales (Edomae) donde no había menú impreso. Los clientes, a menudo comerciantes habituales, simplemente dejaban que el Itamae (maestro pizzero) eligiera las piezas basándose en la pesca más fresca de esa mañana en el mercado de Tsukiji. Es un ritual de respeto mutuo donde el chef demuestra su conocimiento de la estacionalidad y los cortes técnicos de cada especie marina.",
+    "descripcion": "Selección premium de autor con los mejores pescados del día."
+  }
+]
